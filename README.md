@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Aeesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Blogging-Content-Publishing-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Blogging-Content-Publishing-Platform?style=social" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Blogging-Content-Publishing-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Blogging-Content-Publishing-Platform?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Blogging-Content-Publishing-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Blogging-Content-Publishing-Platform?style=social" alt="GitHub forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Blogging-Content-Publishing-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -172,7 +172,7 @@ Contributions are warmly welcome! Help us maintain this index as the most compre
 1. **Fork the repository** on GitHub.
 2. **Add or update an entry** under the appropriate section.
 3. **Follow the formatting guidelines**:
-   - Provide clean name, link, star badge (for open-source), tech stack, and clear architectural trade-offs.
+   - Provide clean name, link, Stars_Badge (for open-source), tech stack, and clear architectural trade-offs.
    - For SaaS products, verify pricing tiers, free tier limits, and valuation/revenue metrics.
 4. **Submit a pull request** with a concise summary of additions.
 
