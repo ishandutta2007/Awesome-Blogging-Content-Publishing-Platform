@@ -32,77 +32,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global Content Management System (CMS) and digital publishing market is estimated at **$33–$38 billion in 2025–2026**, with projections surpassing $75 billion by the early 2030s (~10% CAGR). The sector is **moderately fragmented**: WordPress commands a massive ~60% share of CMS-driven websites, yet the market sustains fierce competition from specialized sub-segments—no-code visual builders (Wix, Squarespace, Webflow), modern headless API-first platforms (Contentful, Sanity), and creator-monetization newsletter networks (Substack, Ghost)—preventing a true winner-take-all monopoly.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[WordPress.com](https://wordpress.com/)**
-
-  **Hosted version of the world's most popular CMS** with managed infrastructure, themes, and plugins. **Pricing**: Free tier; paid plans for custom domains, storage, and advanced features. **Free tier**: Yes, with ads and limited storage. **Best for**: users wanting WordPress without managing their own hosting—**note**: self-hosted WordPress.org offers full control without platform limitations.
-
-
-
-- **[Ghost (Pro)](https://ghost.org/)**
-
-  **Managed hosting for the Ghost publishing platform** with newsletters, memberships, and paid subscriptions built in. **Pricing**: Starter $9/month; Publisher $29/month; Business $99/month. **Free tier**: 14-day trial. **Best for**: professional publishers wanting a managed, modern blogging platform with native newsletter and membership features—**note**: Ghost is open source (MIT) and can be self-hosted for free .
-
-
-
-- **[Medium](https://medium.com/)**
-
-  **Publishing platform with built-in audience** and algorithmic distribution. **Pricing**: Free for readers and writers; $5/month for ad-free reading and partner program access. **Free tier**: Yes, limited. **Best for**: writers wanting to tap into an existing readership without building an audience from scratch—**trade-off**: limited control over design and data.
-
-
-
-- **[Substack](https://substack.com/)**
-
-  **Newsletter-first publishing platform** with paid subscription monetization. **Pricing**: Free to publish; 10% fee on paid subscriptions. **Free tier**: Yes, unlimited free newsletters. **Best for**: writers wanting to monetize directly through paid subscriptions without technical setup—**trade-off**: limited customization and no self-hosting option.
-
-
-
-- **[Webflow](https://webflow.com/)**
-
-  **Visual web development platform** with CMS capabilities for blogs. **Pricing**: Site plans from $14/month (annual); CMS plans from $23/month. **Free tier**: Starter plan available. **Best for**: designers wanting pixel-perfect control over blog design without coding—**trade-off**: steeper learning curve than traditional blogging platforms.
-
-
-
-- **[Squarespace](https://www.squarespace.com/)**
-
-  **All-in-one website builder** with blogging features. **Pricing**: Personal $16/month; Business $23/month. **Free tier**: 14-day trial. **Best for**: small businesses and creators wanting a polished website with integrated blogging.
-
-
-
-- **[Wix](https://www.wix.com/)**
-
-  **Website builder** with blogging capabilities and AI-assisted design. **Pricing**: Free tier; paid plans from $17/month. **Free tier**: Yes, with Wix ads. **Best for**: beginners wanting an easy-to-use website builder with blogging features.
-
-
-
-- **[Contentful](https://www.contentful.com/)**
-
-  **Enterprise headless CMS** for content infrastructure. **Pricing**: Quote-only; tiered by users and API calls. **Free tier**: Limited free tier. **Best for**: enterprises wanting API-first content delivery across multiple channels.
-
-
-
-- **[Sanity](https://www.sanity.io/)**
-
-  **Headless CMS with real-time collaboration** and customizable content models. **Pricing**: Free tier; paid plans by usage. **Free tier**: Yes, with generous limits. **Best for**: developers wanting a flexible, API-first CMS with structured content.
-
-
-
-- **[HubSpot Blog Builder](https://www.hubspot.com/)**
-
-  **Blogging tools within HubSpot's marketing platform**. **Pricing**: Included with HubSpot CMS Hub ($23–$50/month) or Marketing Hub. **Free tier**: Limited. **Best for**: HubSpot users wanting blogging integrated with CRM and marketing automation.
+| Platform | Company Size (Valuation / Revenue) | Starting Pricing (Paid) | Free Tier Limits | Best For / Key Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| **[HubSpot Content Hub](https://www.hubspot.com/)** | ~$12.7B Market Cap (~$2.63B Rev) | $15/month per seat (billed annually) or $20/month | Free forever: 1 blog, basic web pages, 2 user seats, standard form submissions; displays permanent HubSpot branding | Businesses needing blogging natively connected to CRM, email marketing, and lead workflows. |
+| **[Wix](https://www.wix.com/)** | ~$3.6B Market Cap (~$1.76B Rev) | $17/month (Light plan) | Free forever: 500 MB cloud storage, 1 GB bandwidth, `wixsite.com` subdomain, displays Wix ads; no custom domain or e-commerce | Beginners and small sites wanting drag-and-drop visual design with built-in blogging. |
+| **[Squarespace](https://www.squarespace.com/)** | ~$7.2B Valuation (Acquired by Permira) | $16/month (Personal plan, billed annually) | 14-day free trial (extendable by 7 days to 21 days total); full template access and builder features, but site remains private on `squarespace.com` domain with checkout/indexing disabled | Creators and small businesses wanting polished, designer-grade website templates with integrated blogging. |
+| **[WordPress.com](https://wordpress.com/)** | ~$7.5B Peak Valuation (~$500M ARR, Automattic) | $4/month (Personal plan, billed annually) | Free forever: 1 GB storage, `wordpress.com` subdomain, pre-installed themes; displays WordPress.com ads; third-party plugins/themes disabled | Users wanting managed WordPress hosting without server admin or database maintenance. |
+| **[Webflow](https://webflow.com/)** | ~$4.0B Valuation (~$200M ARR) | $14/month (Basic plan, billed annually) / $23/month (CMS plan) | Free forever (Starter plan): 2 static pages, 50 CMS items, 1 GB bandwidth/month, 50 lifetime form submissions, `webflow.io` subdomain | Designers and frontend teams wanting visual CSS/HTML control over custom blog architectures. |
+| **[Contentful](https://www.contentful.com/)** | ~$1.25B–$1.5B Valuation (Acquired by Salesforce, ~$100M ARR) | $300/month (Lite/Basic plan) | Free forever: Up to 10 users, 2 roles, 2 locales, 25 content types, 10,000 records, 100k API calls/month, 50 GB CDN bandwidth | Multi-channel teams and enterprises needing API-first headless content delivery to apps and sites. |
+| **[Substack](https://substack.com/)** | ~$1.1B Valuation | Free to publish; 10% cut on paid subscriber revenue (+ Stripe fees) | Free forever: Unlimited newsletters, unlimited subscribers, unlimited posts, web archive, podcasts, and video publishing | Independent journalists and writers prioritizing email delivery, subscription revenue, and discovery network. |
+| **[Medium](https://medium.com/)** | ~$600M Valuation (~$50M ARR) | $5/month or $50/year (Reader membership / Partner Program) | Free forever: Unlimited reading of free articles, unlimited draft/published posts on `medium.com/@user`; limited access to metered paywall stories | Writers seeking instant access to a built-in algorithmic readership and community without site management. |
+| **[Sanity](https://www.sanity.io/)** | ~$35M–$40M ARR (~$85M Series C) | $15/month per seat (Growth plan) | Free forever: 20 user seats, 2 public datasets, 10,000 documents, 250k API requests/month, 100 GB CDN bandwidth/assets (hard caps, no overage fees) | Developers wanting a customizable real-time headless CMS with structured content modeling. |
+| **[Ghost (Pro)](https://ghost.org/)** | ~$11.1M ARR (Not-for-profit foundation) | $9/month (Starter plan, billed annually) | 14-day free trial; full access to themes, newsletter sending, and member management; no credit card required; site goes offline if not upgraded | Professional creators wanting independent newsletters, paid memberships, and fast Markdown publishing. |
 
 
 
